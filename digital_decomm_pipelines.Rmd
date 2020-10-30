@@ -169,6 +169,8 @@ name: objectives
 --
 * the potential for reuse of the pipeline should be considered before decommissioning (10.5)  
 
+--
+* small diameter pipelines, including flexible flowlines and umbilicals are expected to be entirely removed (10.18)
 
 ---
 # References
