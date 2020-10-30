@@ -165,6 +165,7 @@ name: objectives
 ---
 * must aim to achieve a clear seabed (11.1/ANNEX H)  
 
+
 --
 * the potential for reuse of the pipeline should be considered before decommissioning (10.5)  
 
