@@ -1,0 +1,7 @@
+Digital Decommissioning of Pipelines
+
+Decommissioning of offshore infrastructure is gathering pace, and new technologies are being developed for removing platforms and subsea structures in spectacular feats of engineering. However, the pipelines are being left behind, abandonment-in-place is currently the preferred mode of decommissioning for most subsea pipelines. This presentation will examine some of the justifications being used to facilitate the abandonment of pipelines on the seabed, and questions whether these properly address long-term sustainability issues or merely short-term exigencies. The case will be made that digital technologies like artificial intelligence and digitial twins could be used to ensure the sustainable decommissioning of pipelines, but that enabling this will require the preservation of asset knowledge and data to ensure that it is available for re-use in the future. By «digitally decommissioning» asset data, we can make abandoned subsea infrastructure ready for future technologies, and thereby help ensure the future sustainability of the abandonment process.
+
+
+
+

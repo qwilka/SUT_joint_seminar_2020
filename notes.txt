@@ -1,0 +1,57 @@
+https://bookdown.org/yihui/rmarkdown/xaringan.html
+https://github.com/yihui/xaringan
+https://slides.yihui.org/xaringan/#1 
+https://stackoverflow.com/questions/tagged/xaringan
+
+https://github.com/yihui/xaringan/issues/26  Bibliography and citations
+
+
+https://stackoverflow.com/questions/55985758/rmarkdown-to-ppt-not-loading-reference-doc
+https://stackoverflow.com/questions/31221981/how-do-i-add-citations-and-a-bibliography-to-rpres-rmarkdown-presentations
+https://www.earthdatascience.org/courses/earth-analytics/document-your-science/add-citations-to-rmarkdown-report/
+https://rmd4sci.njtierney.com/common-problems-with-rmarkdown-and-some-solutions.html
+http://data-analytics.net/cep/Schedule_files/presentations_demo.html
+
+bibliography: references.bib
+biblio-style: "apalike"
+link-citations: true
+
+
+# custom.css
+.title-slide {
+    background-image: url(assets/python_brace_2.png);
+    background-position: 25% 40%; 
+    background-size: auto;
+    border-top: 0px;
+    padding-top: 85px;
+}
+
+---
+title: "Digital Decommissioning of Pipelines"
+subtitle: "(using data to help solve sustainably issues )"
+author: "Stephen McEntee"
+institute: "SUT-IMCA-THSIS Joint Seminar <br>Sustainabilitiy: The Subsea Industry and the Evolution of Energy"
+date: "2020-11-05"
+output:
+   ::moon_reader:
+    lib_dir: libs
+    css: [default, metropolis, metropolis-fonts, custom.css]
+    nature:
+      titleSlideClass: [middle, left]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "4:3"
+    seal: true
+bibliography: references.bib
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+library(knitr)
+```
+<a href="https://qwilka.github.io/gis/decom/">
+  <img src="assets/Qwilka-GIS_decom.png" alt="Qwilka GIS decom" style="width:42px;height:42px;">
+</a> 
+
