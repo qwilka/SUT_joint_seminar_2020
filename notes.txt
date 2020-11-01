@@ -3,6 +3,9 @@ https://github.com/yihui/xaringan
 https://slides.yihui.org/xaringan/#1 
 https://stackoverflow.com/questions/tagged/xaringan
 
+https://github.com/gnab/remark
+disableIncrementalSlides: true   https://github.com/gnab/remark/pull/491
+
 https://github.com/yihui/xaringan/issues/26  Bibliography and citations
 
 

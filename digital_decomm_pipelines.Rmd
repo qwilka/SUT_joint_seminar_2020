@@ -155,29 +155,96 @@ name: objectives
 
 ---
 
-# BEIS guidance notes - general approach
+# BEIS Guidance Notes 
 
-(paraphrased extracts from BEIS guidance notes [3])
+<span><small>(Paraphrased extracts from 2018 BEIS Guidance Notes [4], section numbers noted)</small></span>
 
-* robustly assess decommissioning options based on evidence and data (10.2)  
-  * all feasible decommissioning options should be considered (10.5)  
+* Robustly assess decommissioning options based on evidence and data (10.2)  
+
+--
+* Must aim to achieve a clear seabed (11.1/ANNEX H)  
+
+--
+* Potential for reuse of the pipeline should be considered before decommissioning (10.5)  
+
+--
+* Small diameter pipelines are expected to be entirely removed (10.18)
+
+--
+* The following pipelines may be candidates for in-situ decommissioning (10.12):  
+  * those which are adequately buried and trenched ... expected that burial minimum depth of 0.6m will be necessary  
+  * pipelines which are not trenched or buried ... are candidates for leaving in place if the comparative assessment shows that to be the preferred option in particular trunk lines (10.12) 
+  * in addition to cleaning pipelines to remove hydrocarbons, reasonable endeavours to remove wax and other contaminants (10.7)
+
+--
+* Mattresses, grout bags, or contained rock deposits should be considered for removal with the aim to achieve a clear seabed (11.1)
+  * recognised that removal of rock-dump is unlikely to be practicable and it is generally assumed that the rock-dump and the pipeline will remain in place (10.19)  
+
+???
+1. all feasible decommissioning options should be considered (10.5)  
+1. removal of the rock-dump is unlikely to be practicable and it is generally assumed that the rock-dump and the pipeline will remain in place
+1. Small diameter pipelines, including flexible flowlines and umbilicals are expected to be entirely removed 
+
+[4] BEIS <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/760560/Decom_Guidance_Notes_November_2018.pdf">Guidance Notes Decommissioning of Offshore Oil and Gas Installations and Pipelines</a> November 2018
 
 ---
-* must aim to achieve a clear seabed (11.1/ANNEX H)  
 
+# Survey, Monitoring, Data
+
+<span><small>(Paraphrased extracts from 2018 BEIS Guidance Notes [4], section numbers noted)</small></span>
+
+* Upon completion of decommissioning, surveys should be undertaken to identify and recover any debris or obstructions on the seabed (12.38)
 
 --
-* the potential for reuse of the pipeline should be considered before decommissioning (10.5)  
+* Pipelines and stabilisation features left in place will be subject to a risk based monitoring regime (15.4)  
+  * areas where deposits have not been removed will be subject to monitoring requirements post decommissioning (11.6)  
 
 --
-* small diameter pipelines, including flexible flowlines and umbilicals are expected to be entirely removed (10.18)
+* Pipelines decommissioned in place should be supported by a study which addresses the degree of past and future burial/exposure of the pipeline (10.11)  
+  * study should include the survey history of the line with appropriate data    
+
+--
+* Geotechnical data collected under the petroleum licence should be placed in the [National Hydrocarbons Data Archive](http://www.bgs.ac.uk/nhda/) (14.5)  
+
+--
+* Intention is that companies will make provision for keeping the most historically important records in the [Oil and Gas Archive](https://www.capturing-the-energy.org.uk/research/oilgasarchive/) (19.3)
+
+???
+
+1. Pipeline decommissioned in place, then the programme should be supported by a suitable study which
+addresses the degree of past and likely future burial/exposure of the pipeline 
+and any potential effect on the marine environment and other uses of the sea. 
+1. The study should
+include the survey history of the line with appropriate data to confirm the current status of
+the line including the extent and depth of burial, trenching, spanning and exposure. It
+should also detail levels of fishing activity in the area.
+1. NHDA National Hydrocarbons Data Archive   British Geological Society
+1. Oil and Gas Archive at the University of Aberdeen
+
+---
+
+# Liabilities and Legacies
+
+<span><small>(Paraphrased extracts from 2018 BEIS Guidance Notes [4], section numbers noted)</small></span>
+
+* Residual liability remains with the owners in perpetuity (17.2)  
+
+--
+* Persons/parties who own an installation or pipeline at the time of its decommissioning will remain the owners of any residues and remains after decommissioning (17.1)  
+
+--
+* Measures to manage the potential risks arising from any legacies should be addressed in the decommissioning programme (17.6)  
+
+--
+* Remedial activity (including removal of the pipeline) may be required if issues arise (10.21)  
 
 ---
 # References
 
 1. Oil & Gas Authority <a href="https://www.ogauthority.co.uk/news-publications/publications/2020/ukcs-decommissioning-cost-estimate-2020/" target="_blank" rel="noopener noreferrer">UKCS Decommissioning Cost Estimate 2020</a>
 1. OGUK <a href="https://oilandgasuk.co.uk/product/decommissioning-insight-report/" target="_blank" rel="noopener noreferrer">Decommissioning Insight 2019</a>
-1. GOV.UK <a href="https://www.gov.uk/guidance/oil-and-gas-decommissioning-of-offshore-installations-and-pipelines" target="_blank" rel="noopener noreferrer">Guidance decommissioning of offshore installations and pipelines</a>
+1. GOV.UK webpage <a href="https://www.gov.uk/guidance/oil-and-gas-decommissioning-of-offshore-installations-and-pipelines" target="_blank" rel="noopener noreferrer">Guidance decommissioning of offshore installations and pipelines</a>
+1. BEIS <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/760560/Decom_Guidance_Notes_November_2018.pdf">Guidance Notes Decommissioning of Offshore Oil and Gas Installations and Pipelines</a> November 2018
 1. Manouchehri, Subsea Pipelines and Flowlines Decommissioning - What We Should Know for a Rational Approach, OMAE2017-61239
 1. Rouse et al., Offshore pipeline decommissioning: Scale and context, Marine Pollution Bulletin 129 (2018) 241–244
 1. Ounnas, Hydrogen storage and transportation, is this feasible for our current pipeline network, <a href="https://www.subseauk.com/documents/documents2019/8%20-%20soffiane%20ounnas%20-%20xodus%20group.pdf" target="_blank" rel="noopener noreferrer">presentation Subsea Expo, Aberdeen, 2020</a>
