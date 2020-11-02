@@ -24,7 +24,6 @@ name: about
 # About the speaker
 
 
-
 .pull-left[
 
 * Subsea / pipelines engineer
@@ -35,6 +34,7 @@ name: about
   * unstructured engineering data
   * video, images, MBES, lidar, geospatial, etc.
   * http://www.qwilka.com/
+
 ]
 
 .pull-right[
@@ -66,14 +66,21 @@ https://qwilka.github.io/gis/decom/
 ---
 name: objectives
 
-# Objectives of this talk
+# Objectives  
 
-* Review regulations and expectations relating to pipeline decommissioning
-  * focus on UKCS
-* Look at options and reasons for choosing options
+* Review regulations relating to pipeline decommissioning
+  * focus on UKCS  
+
+* Look at the  options for pipeline decommisioning
+
 * Discuss the role of data and digital technology
+
 * Propose that preserving pipeline data now will help ensure sustainability post-decommissioning for pipelines left in-situ
 
+
+???
+
+1. Objectives of this talk  
  
 
 
@@ -151,7 +158,7 @@ name: objectives
   * Oil and gas: offshore environmental legislation <a href="https://www.gov.uk/guidance/oil-and-gas-offshore-environmental-legislation" target="_blank" rel="noopener noreferrer">link</a>  
 
 --
-  * There are currently no international guidelines on the decommissioning of disused pipelines    
+* There are currently no international guidelines on the decommissioning of disused pipelines    
 
 
 ???
