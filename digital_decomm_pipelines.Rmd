@@ -166,6 +166,7 @@ Considerations for decommissioning
 1. all feasible decommissioning options should be considered (10.5)  
 1. removal of the rock-dump is unlikely to be practicable and it is generally assumed that the rock-dump and the pipeline will remain in place
 1. Small diameter pipelines, including flexible flowlines and umbilicals are expected to be entirely removed 
+1. snagging risk is a major concern
 
 [4] BEIS <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/760560/Decom_Guidance_Notes_November_2018.pdf">Guidance Notes Decommissioning of Offshore Oil and Gas Installations and Pipelines</a> November 2018
 
@@ -244,12 +245,17 @@ should also detail levels of fishing activity in the area.
 
 # Pipeline Re-use
 
-* Re-use for hydrocarbon transport/storage
-* H<sub>2</sub> export of offshore generated "green" hydrogen (Ounnas [7]) 
-* CO<sub>2</sub> transport as part of CCS
-* Full documentation and data packages will be required to qualify a pipeline for re-use
+* Re-use for hydrocarbon transport/storage  
+
+* H<sub>2</sub> export of offshore generated "green" hydrogen (Ounnas [7])  
+
+* CO<sub>2</sub> transport as part of CCS  
+
+* Full documentation and data packages will be required to qualify a pipeline for re-use  
+
 * Historical survey data will be crucial for determining the fatigue damage sustained by the pipeline and the remaining lifetime  
-* Even with re-use, still must plan for ultimate decommissioning  
+
+* Even with re-use, still must plan for ultimate decommissioning   
 
 ---
 
@@ -265,8 +271,8 @@ should also detail levels of fishing activity in the area.
   * enable new technologies, (e.g. "digital twins" ) 
   * create new business opportunities
 * Examples of reservoir and exploration data being openly shared
-  * Equinor’s Volve reservoir datasets
-  * OGA National Data Repository
+  * Equinor’s Volve and Northern Lights <a href="https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna.html">data sets</a>  
+  * OGA <a href="https://ndr.ogauthority.co.uk/">National Data Repository</a>  
 * Collating and sharing environmental data has major benefits for decommissioning (Murray et al. [9]) 
 
 
@@ -294,11 +300,42 @@ background-size: cover
 
 ---
 
+# Benefits from Data
+
+* Digitial twin technologies  
+  * realistic 3-D visualisations combined with physical modelling  
+  * models used in digital twins are currently mostly based on engineering theory  
+  * risk of a gap between realistic visual representations and theory-based modelling  
+  * need data-driven models that combine engineering theory with real-world data  
+
+* Data-informed risk evaluation  
+  * data from surveys, field observations and monitoring can help build a realistic understanding of how infrastructure actually behaves 
+  * more data means outcome probabilities can be more accurately assessed  
+  * more confidence in risk evaluation means reduced costs and safer outcomes  
+
+* Commercial opportunities  
+  * «Industry 4.0» is being built on data-based digitial technologies
+  * access to real-world, quality data is essential for developing data-based businessess 
+
+
+???
+
+1. Digitial twin technologies are becoming increasingly sophisticated and common
+  1. realistic 3-D visualisations combined with physical modelling
+  1. provide a physically realistic and intutive indiction of the current state of a system
+  1. potential for predicting future system states 
+1. Currently most of the models used in digital twins are based on engineering theory
+
+---
+
 # Conclusions
 
 * Pipeline decommissioning is still a developing field
+
 * Abandonment in place is currently the preferred option for most subsea pipelines
+
 * Pipeline related data should be secured for the future as part of the decommissioning process
+
 * The decommissioning process in the UKCS is well developed and robust 
 
 ---

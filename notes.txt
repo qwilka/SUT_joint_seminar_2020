@@ -105,5 +105,17 @@ Considerations
 * Other uses of the sea and seabed  
 * Re-use of assets  
 
+
+---
+
+# Digital twins
+
+* Digitial twin technologies are becoming increasingly sophisticated and common
+  * realistic 3-D visualisations combined with physical modelling
+  * provide a physically realistic and intutive indiction of the current state of a system
+  * potential for predicting future system states 
+
+* Currently most of the models used in digital twins are based on engineering theory
+
 =====================================================
 
