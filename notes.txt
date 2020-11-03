@@ -58,3 +58,52 @@ library(knitr)
   <img src="assets/Qwilka-GIS_decom.png" alt="Qwilka GIS decom" style="width:42px;height:42px;">
 </a> 
 
+=====================================================
+---
+# Overview of Decommissioning
+
+.pull-left[
+* Total estimated cost £48 billion (OGA 2020 [1])
+* Cost is ~10% total annual expenditure of UK oil&gas industry [2]
+* Industry pays full cost, claims tax relief (est. £16 billion [2])
+* Pipelines and subsea infrastructure account for 10% of decommissioning cost [1]
+* ~6000km pipelines to be decommissioned over next 10 years in UKCS
+* options for pipelines: abandon in place; full/partial removal; or re-use
+  * most subsea pipelines will be "abandoned" in place after decommissioning
+]
+
+--
+
+.pull-right[
+Considerations
+
+* Cost  
+* Cost to taxpayers  
+* Technical feasibility  
+* Environmental issues  
+  * wildlife habitats  
+* Sustainability issues  
+* Other uses of the sea and seabed  
+* Re-use of assets  
+]
+
+???
+
+[1] OGA <a href="https://www.ogauthority.co.uk/news-publications/publications/2020/ukcs-decommissioning-cost-estimate-2020/" target="_blank" rel="noopener noreferrer">UKCS Decommissioning Cost Estimate 2020</a>  
+[2] OGUK <a href="https://oilandgasuk.co.uk/product/decommissioning-insight-report/" target="_blank" rel="noopener noreferrer">Decommissioning Insight 2019</a>
+
+---
+
+# Considerations for Decommissioning
+
+* Cost  
+* Cost to taxpayers  
+* Technical feasibility  
+* Environmental issues  
+  * wildlife habitats  
+* Sustainability issues  
+* Other uses of the sea and seabed  
+* Re-use of assets  
+
+=====================================================
+
