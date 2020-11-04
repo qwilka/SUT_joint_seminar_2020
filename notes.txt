@@ -117,5 +117,23 @@ Considerations
 
 * Currently most of the models used in digital twins are based on engineering theory
 
+
+.pull-right[
+<!--
+<a href="https://qwilka.github.io/gis/decom/" target="_blank" rel="noopener noreferrer">
+  <img src="assets/Qwilka-GIS_decom.png" alt="Qwilka GIS decom" style="width:110%;">
+</a> 
+-->
+<iframe src="https://qwilka.github.io/gis/decom/" title="GIS Decomm" width="100%" height="440">
+</iframe>
+
+<p style="text-align:center;position:relative;top:10px;">
+<a href="https://qwilka.github.io/gis/decom/ "target="_blank" rel="noopener noreferrer">
+https://qwilka.github.io/gis/decom/
+</a> 
+</p>
+
+]
+
 =====================================================
 
