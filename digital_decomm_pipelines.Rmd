@@ -102,7 +102,7 @@ name: objectives
 
 
 ---
-# Considerations for decommissioning
+# Considerations for Decommissioning
 
 * Costs
   * Cost to owner 
@@ -110,15 +110,19 @@ name: objectives
 
 * Technical feasibility  
 
+* Other uses of the sea and seabed  
+
+* Re-use of assets  
+
 * Environmental issues  
   * wildlife habitats  
 
 * Sustainability   
-  * future stakeholders 
+  * the future could have very different values and judgements 
+  * securing data for the future will be critical   
+  * enable future stakeholders to make their own decisions   
 
-* Other uses of the sea and seabed  
 
-* Re-use of assets  
 
 
 ---
@@ -154,23 +158,13 @@ name: objectives
 <span><small>(Paraphrased extracts from 2018 BEIS Guidance Notes [4], section numbers noted)</small></span>
 
 * Robustly assess decommissioning options based on evidence and data (10.2)  
-
---
 * Must aim to achieve a clear seabed (11.1/ANNEX H)  
-
---
 * Potential for reuse of the pipeline should be considered before decommissioning (10.5)  
-
---
 * Small diameter pipelines are expected to be entirely removed (10.18)
-
---
 * The following pipelines may be candidates for in-situ decommissioning (10.12):  
   * those which are adequately buried and trenched ... expected that burial minimum depth of 0.6m will be necessary  
   * pipelines which are not trenched or buried ... are candidates for leaving in place if the comparative assessment shows that to be the preferred option in particular trunk lines (10.12) 
   * in addition to cleaning pipelines to remove hydrocarbons, reasonable endeavours to remove wax and other contaminants (10.7)
-
---
 * Mattresses, grout bags, or contained rock deposits should be considered for removal with the aim to achieve a clear seabed (11.1)
   * recognised that removal of rock-dump is unlikely to be practicable and it is generally assumed that the rock-dump and the pipeline will remain in place (10.19)  
 
@@ -190,18 +184,14 @@ name: objectives
 
 * Upon completion of decommissioning, surveys should be undertaken to identify and recover any debris or obstructions on the seabed (12.38)
 
---
 * Pipelines and stabilisation features left in place will be subject to a risk based monitoring regime (15.4)  
   * areas where deposits have not been removed will be subject to monitoring requirements post decommissioning (11.6)  
 
---
 * Pipelines decommissioned in place should be supported by a study which addresses the degree of past and future burial/exposure of the pipeline (10.11)  
   * study should include the survey history of the line with appropriate data    
 
---
 * Geotechnical data collected under the petroleum licence should be placed in the [National Hydrocarbons Data Archive](http://www.bgs.ac.uk/nhda/) (14.5)  
 
---
 * Intention is that companies will make provision for keeping the most historically important records in the [Oil and Gas Archive](https://www.capturing-the-energy.org.uk/research/oilgasarchive/) (19.3)
 
 ???
@@ -224,13 +214,10 @@ should also detail levels of fishing activity in the area.
 
 * Residual liability remains with the owners in perpetuity (17.2)  
 
---
 * Persons/parties who own an installation or pipeline at the time of its decommissioning will remain the owners of any residues and remains after decommissioning (17.1)  
 
---
 * Measures to manage the potential risks arising from any legacies should be addressed in the decommissioning programme (17.6)  
 
---
 * Remedial activity (including removal of the pipeline) may be required if issues arise (10.21)  
 
 ---
@@ -315,9 +302,8 @@ background-size: cover
 # Role of Data Post-decommissioning
 
 * Post-decommissioning, data still has major role
-  * monitoring sites
-  * post-decommissioning removal decisions
-  * data enables risk-based monitoring and decision making
+  * data enables risk-based monitoring and removal decision making
+  * future stakeholders will want to make their own decisions
 
 * Data-informed risk evaluation  
   * data from surveys, field observations and monitoring can help build a realistic understanding of how infrastructure actually behaves 
@@ -363,13 +349,15 @@ background-size: cover
 
 * Pipeline decommissioning is still a developing field
 
-* Abandonment in place is currently the preferred option for most subsea pipelines
+* Abandonment in-place is currently the preferred option for most subsea pipelines
+
+* The decommissioning process in the UKCS is well developed and robust 
 
 * Pipeline related data should be secured for the future as part of the decommissioning process
 
 * Opening data to wider use has commercial and technical benefits
 
-* The decommissioning process in the UKCS is well developed and robust 
+* Securing full datasets for the future will help ensure sustainable decommissioning  
 
 ---
 # References
