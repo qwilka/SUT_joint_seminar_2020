@@ -135,5 +135,21 @@ https://qwilka.github.io/gis/decom/
 
 ]
 
+output:
+  xaringan::moon_reader:
+#    chakra: 'libs/remark-latest.min.js'
+    lib_dir: libs
+    css: [default, metropolis, metropolis-fonts, custom.css]
+    nature:
+      titleSlideClass: [middle, left]
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: true
+      slideNumberFormat: "%current%"
+      ratio: "4:3"
+    seal: true
+
 =====================================================
 
+(Shell Goldeneye)
+https://www.shell.co.uk/sustainability/decommissioning/goldeneye/_jcr_content/par/toptasks.stream/1540994356146/5a481d1ee4a35c08cfa892f7b22a48e85fb598c5/goldeneye-comparative-assessment-document.pdf

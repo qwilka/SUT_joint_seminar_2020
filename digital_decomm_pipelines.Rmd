@@ -12,8 +12,8 @@ output:
     nature:
       titleSlideClass: [middle, left]
       highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: true
+      highlightLines: false
+      countIncrementalSlides: false
       slideNumberFormat: "%current%"
       ratio: "4:3"
     seal: true
@@ -58,7 +58,7 @@ https://qwilka.github.io/SUT_joint_seminar_2020/
 ---
 name: objectives
 
-# Objectives  
+# About the talk 
 
 * Review regulations relating to pipeline decommissioning
   * focus on UKCS  
@@ -77,7 +77,7 @@ name: objectives
 
 
 ---
-# Overview 
+# Overview of decommissioning in UKCS
 
 * Total estimated cost £48 billion (OGA 2020 [1])
 
@@ -149,20 +149,30 @@ name: objectives
 
 <span><small>(Paraphrased extracts from 2018 BEIS Guidance Notes [4], section numbers noted)</small></span>
 
-* Robustly assess decommissioning options based on evidence and data (10.2)  
-* Must aim to achieve a clear seabed (11.1/ANNEX H)  
-* Potential for reuse of the pipeline should be considered before decommissioning (10.5)  
+* Robustly assess decommissioning options based on <mark>evidence and data</mark> (10.2)  
+
+--
+* Must aim to achieve a <mark>clear seabed</mark> (11.1/ANNEX H)  
+
+--
+* Potential for re-use of the pipeline should be considered before decommissioning (10.5)  
+
+--
 * Small diameter pipelines are expected to be entirely removed (10.18)
-* The following pipelines may be candidates for in-situ decommissioning (10.12):  
-  * those which are adequately buried and trenched ... expected that burial minimum depth of 0.6m will be necessary  
-  * pipelines which are not trenched or buried ... are candidates for leaving in place if the comparative assessment shows that to be the preferred option in particular trunk lines (10.12) 
+
+--
+* The following pipelines may be <mark>candidates for _in-situ_ decommissioning</mark> (10.12):  
+  * those which are <mark>adequately buried and trenched</mark> ... expected that burial minimum depth of 0.6m will be necessary  
+  * pipelines which are not trenched or buried ... are candidates for leaving in place if the comparative assessment shows that to be the preferred option <mark>in particular trunk lines</mark> (10.12) 
   * in addition to cleaning pipelines to remove hydrocarbons, reasonable endeavours to remove wax and other contaminants (10.7)
+
+--
 * Mattresses, grout bags, or contained rock deposits should be considered for removal with the aim to achieve a clear seabed (11.1)
-  * recognised that removal of rock-dump is unlikely to be practicable and it is generally assumed that the rock-dump and the pipeline will remain in place (10.19)  
+  * recognised that <mark>removal of rock-dump is unlikely to be practicable</mark> and it is generally assumed that the rock-dump and the pipeline will remain in place (10.19)  
 
 ???
 1. all feasible decommissioning options should be considered (10.5)  
-1. removal of the rock-dump is unlikely to be practicable and it is generally assumed that the rock-dump and the pipeline will remain in place
+1. <mark>removal of the rock-dump is unlikely to be practicable and it is generally assumed that the rock-dump and the pipeline will remain in place
 1. Small diameter pipelines, including flexible flowlines and umbilicals are expected to be entirely removed 
 1. snagging risk is a major concern
 
@@ -170,20 +180,24 @@ name: objectives
 
 ---
 
-# Survey, Monitoring, Data
+# BEIS Guidance - Survey, Monitoring
 
 <span><small>(Paraphrased extracts from 2018 BEIS Guidance Notes [4], section numbers noted)</small></span>
 
 * Upon completion of decommissioning, surveys should be undertaken to identify and recover any debris or obstructions on the seabed (12.38)
 
-* Pipelines and stabilisation features left in place will be subject to a risk based monitoring regime (15.4)  
+--
+* Pipelines and stabilisation features left in place will be subject to a <mark>risk based monitoring regime</mark> (15.4)  
   * areas where deposits have not been removed will be subject to monitoring requirements post decommissioning (11.6)  
 
+--
 * Pipelines decommissioned in place should be supported by a study which addresses the degree of past and future burial/exposure of the pipeline (10.11)  
-  * study should include the survey history of the line with appropriate data    
+  * study should include the <mark>survey history of the line with appropriate data</mark>    
 
+--
 * Geotechnical data collected under the petroleum licence should be placed in the [National Hydrocarbons Data Archive](http://www.bgs.ac.uk/nhda/) (14.5)  
 
+--
 * Intention is that companies will make provision for keeping the most historically important records in the [Oil and Gas Archive](https://www.capturing-the-energy.org.uk/research/oilgasarchive/) (19.3)
 
 ???
@@ -200,21 +214,21 @@ should also detail levels of fishing activity in the area.
 
 ---
 
-# Liabilities and Legacies
+# BEIS Guidance - Liabilities, Legacies
 
 <span><small>(Paraphrased extracts from 2018 BEIS Guidance Notes [4], section numbers noted)</small></span>
 
-* Residual liability remains with the owners in perpetuity (17.2)  
+* <mark>Residual liability remains with the owners in perpetuity</mark> (17.2)  
 
-* Persons/parties who own an installation or pipeline at the time of its decommissioning will remain the owners of any residues and remains after decommissioning (17.1)  
+* Persons/parties who own an installation or pipeline at the time of its decommissioning will <mark>remain the owners of any residues and remains after decommissioning</mark> (17.1)  
 
 * Measures to manage the potential risks arising from any legacies should be addressed in the decommissioning programme (17.6)  
 
-* Remedial activity (including removal of the pipeline) may be required if issues arise (10.21)  
+* <mark>Remedial activity (including removal of the pipeline) may be required</mark> if issues arise (10.21)  
 
 ---
 
-# Large Diameter Pipelines
+# Large diameter pipelines - challenges
 
 * Pipelines D<sub>o</sub>>16" are typically "surface laid" (lying exposed on seabed and not trenched) in UKCS
 
@@ -234,34 +248,53 @@ should also detail levels of fishing activity in the area.
 
 ---
 
-# Pipeline Re-use
+# Pipeline re-use
 
 * Re-use for hydrocarbon transport/storage  
 
-* H<sub>2</sub> export of offshore generated "green" hydrogen (Ounnas [7])  
 
+--
+* H<sub>2</sub> export of offshore generated "green" hydrogen  
+  * (see presentation by Ounnas [7])  
+
+
+--
 * CO<sub>2</sub> transport as part of CCS  
+  * e.g. Shell's Goldeneye pipeline on Acorn Project 
 
+
+--
 * Full documentation and data packages will be required to qualify a pipeline for re-use  
 
-* Historical survey data will be crucial for determining the fatigue damage sustained by the pipeline and the remaining lifetime  
 
+--
+* Historical data will be crucial for determining progressive damage (e.g. fatigue, corrosion) sustained by the pipeline   
+  * determine remaining lifetime of pipeline  
+
+
+--
 * Even with re-use, still must plan for ultimate decommissioning   
 
 ---
 
-# The Role of Data
+# The role of data
 
 * The oil & gas industry is sitting on a huge amount of pipeline related data, and is doing little or nothing with it  
   * there is a risk that this data will be lost after decommissioning
-  * historically, integrity data has been discarded after risk shown to be ALARP
+  * historically, integrity data has been discarded after risk shown to be ALARP  
 
+
+--
 * «fear of data» still pervades the industry
   * something-could-happen if data  is released
   * unable see the benefits of sharing data, only the risks
 
+
+--
 * Collating and sharing environmental data has major benefits for decommissioning (Murray et al. [9]) 
 
+
+--
 * Examples of reservoir and exploration data being openly shared
   * Equinor’s Volve and Northern Lights <a href="https://www.equinor.com/en/how-and-why/digitalisation-in-our-dna.html">data sets</a>  
   * OGA <a href="https://ndr.ogauthority.co.uk/">National Data Repository</a>  
@@ -291,17 +324,19 @@ background-size: cover
 
 ---
 
-# Role of Data Post-decommissioning
+# Role of data post-decommissioning
 
 * Post-decommissioning, data still has major role
   * data enables risk-based monitoring and removal decision making
   * future stakeholders will want to make their own decisions
 
+--
 * Data-informed risk evaluation  
   * data from surveys, field observations and monitoring can help build a realistic understanding of how infrastructure actually behaves 
   * more data means outcome probabilities can be more accurately assessed  
   * more confidence in risk evaluation means reduced costs and safer outcomes  
 
+--
 * Maintaining full historical datasets enables better analyses
   * integrity process has been based on demonstrating ALARP, historically
   * at end of integrity cycle, data has been discarded
@@ -314,14 +349,18 @@ background-size: cover
 
 * Commercial opportunities  
   * «Industry 4.0» is being built on data-based digitial technologies
-  * access to real-world, quality data is essential for developing data-based businessess 
+  * access to real-world, quality data is essential for developing data-based businesses  
 
+
+--
 * Digitial twin technologies  
   * realistic 3-D visualisations combined with physical modelling  
   * models used in digital twins are currently mostly based on engineering theory  
   * risk of a gap between realistic visual representations and theory-based modelling  
   * need data-driven models that combine engineering theory with real-world data  
 
+
+--
 * Probabilitic risk-based analysis
   * enables optimal decision making  
   * more data means better outcomes    
