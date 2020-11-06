@@ -341,7 +341,7 @@ background-size: cover
   * integrity process has been based on demonstrating ALARP, historically
   * at end of integrity cycle, data has been discarded
   * degradation processes are progressive
-  * accurately representings corrosion, fatigue, freespan development processes requires full historical datasets
+  * accurately representing corrosion, fatigue, freespan development processes requires full historical datasets
 
 ---
 
@@ -361,7 +361,7 @@ background-size: cover
 
 
 --
-* Probabilitic risk-based analysis
+* Probabilistic risk-based analysis
   * enables optimal decision making  
   * more data means better outcomes    
 
